@@ -1,1 +1,2 @@
 # -Transformaci-n-en-blockchain
+Los smart contracts son la herramienta clave para la automatización y la seguridad en las finanzas digitales. Operando en blockchain, eliminan intermediarios, reducen costos y aseguran transacciones precisas en tiempo real. Esta tecnología está redefiniendo la eficiencia en sectores como seguros, préstamos y pagos internacionales, marcando un avance significativo en la digitalización financiera.
